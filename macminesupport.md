@@ -1,5 +1,6 @@
-# MacMine Support — Moved
+# MacMine Support — Retired
 
-The canonical document is now [MacMine Support](https://github.com/buusmorten/documentation/blob/main/macmine/support.md).
+MacMine is no longer maintained as a separate documented product. For the current
+product, use [CubeHarbor Support](https://github.com/buusmorten/documentation/blob/main/cubeharbor/support.md).
 
-This compatibility page remains available so existing App Store links continue to work.
+This compatibility page remains available so existing links do not fail.

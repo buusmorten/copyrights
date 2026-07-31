@@ -1,5 +1,6 @@
-# MacMine Copyright Notices — Moved
+# MacMine Documentation — Retired
 
-The canonical document is now [MacMine Copyright and Third-Party Notices](https://github.com/buusmorten/documentation/blob/main/macmine/copyright.md).
+MacMine is no longer maintained as a separate documented product. Its successor is
+[CubeHarbor](https://github.com/buusmorten/documentation/tree/main/cubeharbor).
 
-This compatibility page remains available so existing links continue to work.
+This compatibility page remains available so existing links do not fail.
